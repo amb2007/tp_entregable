@@ -1,6 +1,57 @@
-*{
-    max-width: 95%;
+ *{
+    
     background-color: #2F2F2F;
     color: #EFF7CF;
-}
+} 
 
+.conteiner{
+    display: grid ;
+    grid-template-columns: auto auto ;
+    padding: 10 px;
+}
+.item{
+    text-align: center;
+}
+/* <address>
+
+            <a href="mailto:D48070622@alumnos.itr.edu.ar">mail del creador:
+                D48070622@alumnos.itr.edu.ar</a><!--funciona mal por culpa de google  -->
+    </header>
+    <article class="art">
+        <center>
+            <h1 class="subtitulos">Bienvenidos a la OTE League</h1>
+        </center>
+        <br>
+        <br>
+        <br>
+        <h2>¿Que es la OTE League?</h2>
+        <br>
+        <p>
+            Overtime Elite es una liga de basket para jóvenes de 16 a 20 años, con sede en Atlanta , Georgia . La liga
+            es propiedad de Overtime y está operada por ella y fue fundada por <ins>Dan Porter</ins> y <ins>Zack
+                Weiner</ins> en el año 2021.
+        </p>
+
+        <img src="Overtime_Logo.png" alt='Logo de Overtime' width="200">
+        <p>
+            Dentro de la liga coexisten 8 equipos de manera competitiva habiendo solo un campeon por temporada.<br />
+            actualmente estos equipos son los siguientes:
+        <ol>
+            <ul>City Reapers</ul>
+            <ul>Cold Hearts</ul>
+            <ul>Blue Checks</ul>
+            <ul>Jelly Fam</ul>
+            <ul>Rolling Loud</ul>
+            <ul>YNG Dreamerz</ul>
+            <ul>RWE</ul>
+            <ul>Diamond Doves</ul>
+        </ol>
+        </p>
+        <section class="ultimos_campeones">
+            <h2>Ultimos campeones</h2>
+            <p>
+                En la temporada 2023-2024 los ultimos capeones resultaron ser los City Reapers con unas participaciones
+                exepcionales por parte de Jahki Howard, Amari Evans
+            </p>
+        </section>
+    </article> */
