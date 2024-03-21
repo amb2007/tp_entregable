@@ -3,7 +3,9 @@
     background-color: #2F2F2F;
     color: #EFF7CF;
 } 
-
+.parrafo_pers{
+    max-width: 90%;
+}
 .conteiner{
     display: grid ;
     grid-template-columns: 1fr 1fr ;
